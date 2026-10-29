@@ -1,2 +1,3 @@
-# DANYOUCHY.github.io
-תצוגה זמנית לבדיקת האתר victory.org.il
+# תצוגה זמנית
+
+עותק לבדיקה של האתר `victory.org.il`. יימחק אחרי האישור.
